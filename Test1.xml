@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<!--http://tolweb.org/onlinecontributors/app?service=external&page=xml/TreeStructureService&node_id=70714-->
+<Root>
+  <Collection>
+    <Bus Id="1">
+      <Rnid>1</Rnid>
+      <Line>111</Line>
+      <JourneyId>1</JourneyId>
+    </Bus>
+
+    <Bus Id="2">
+      <Rnid>2</Rnid>
+      <Line>222</Line>
+      <JourneyId>2</JourneyId>
+    </Bus>
+
+    <Bus Id="3">
+      <Rnid>3</Rnid>
+      <Line>333</Line>
+      <JourneyId>3</JourneyId>
+    </Bus>
+
+    <Bus Id="4">
+      <Rnid>4</Rnid>
+      <Line>444</Line>
+      <JourneyId>4</JourneyId>
+    </Bus>
+
+    <Bus Id="5">
+      <Rnid>5</Rnid>
+      <Line>555</Line>
+      <JourneyId>5</JourneyId>
+    </Bus>
+
+   
+
+  </Collection>
+</Root>
+
+
+
